@@ -65,3 +65,7 @@ Kenapa berbahaya:
 Insight:
 - Data bagus lebih penting dari model keren
 - Model tidak pernah salah, Engineer-lah yang salah memilih data.
+- Data yang diisi dengan asumsi salah lebih berbahaya karena memberikan informasi palsu kepada model, sehingga model belajar pola yang tidak merepresentasikan kenyataan.
+
+
+sebenernya ini jadwal buat seminggu, tapi karena gabut jadi cuma sehari hehe.
