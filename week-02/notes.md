@@ -17,3 +17,12 @@ Insight
 tapi memodelkan ketidakpastian ketika aturan tidak cukup.
 - ML tidak pernah adil atau tidak adil.
 Kebijakan di atas ML-lah yang menentukan keadilan.
+
+
+## Week 2 - Multiple Features
+
+Insight:
+- Menambah fitur bisa mengubah keputusan model
+- Model tidak tahu konteks, hanya angka
+- Feature selection adalah tanggung jawab engineer
+
