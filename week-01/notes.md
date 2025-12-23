@@ -24,7 +24,7 @@ Yang masih bingung:
 `def cek_kelulusan(data):
     pass`
 
-# ## Refleksi
+# Refleksi
 - Hal yang awalnya kukira gampang ternyata lumayan susah
 - Bagian yg sulit itu pas di tanya kenapa harus list?, klo yang refactor code ga terlalu sulit sih
 - ai itu sebenernya proses komputasi yang berulang
@@ -38,3 +38,14 @@ Hal penting:
 Insight:
 - AI bukan soal pintar, tapi soal efisiensi
 - Teks, gambar, dan suara bukan tidak konsisten, tapi data yang belum dalam bentuk yang bisa dihitung. ML hanya bisa melakukan operasi matematika, tapi bukan berarti ga bisa diolah, sebelum diolah data2 tersebut harus ditermahin ke numerik sehingga ml bisa membaca nya.
+
+
+## Day 3 - Pandas
+
+Yang kupelajari:
+- DataFrame itu seperti tabel pintar
+- Filtering dan groupby lebih rapi dari loop
+
+Insight:
+- Dunia nyata datanya berantakan
+- Pandas bikin chaos jadi bisa diproses
