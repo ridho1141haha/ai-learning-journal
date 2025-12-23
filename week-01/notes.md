@@ -49,3 +49,19 @@ Yang kupelajari:
 Insight:
 - Dunia nyata datanya berantakan
 - Pandas bikin chaos jadi bisa diproses
+
+## Day 4 - Data Cleaning
+
+Masalah data:
+- nilai ada teks
+- ada nilai kosong
+- ada data duplikat
+
+Kenapa berbahaya:
+- ML tidak bisa hitung teks
+- missing value bikin bias
+- duplikat bikin model berat sebelah
+
+Insight:
+- Data bagus lebih penting dari model keren
+- Model tidak pernah salah, Engineer-lah yang salah memilih data.
