@@ -12,3 +12,29 @@ Catatan:
 
 Yang masih bingung:
 - kapan pakai function, kapan langsung?
+
+# Challenge 1
++ Kenapa hasil harus list?
+-> karena input data berjumlah banyak, maka output juga hrus berjumlah banyak
++ Bisa nggak return langsung tanpa list?
+-> bisa, tapi nanti ribet
+
+# Challenge 2
++ refactor code 
+`def cek_kelulusan(data):
+    pass`
+
+# ## Refleksi
+- Hal yang awalnya kukira gampang ternyata lumayan susah
+- Bagian yg sulit itu pas di tanya kenapa harus list?, klo yang refactor code ga terlalu sulit sih
+- ai itu sebenernya proses komputasi yang berulang
+
+## Day 2 - Numpy
+
+Hal penting:
+- Numpy bisa operasi banyak data sekaligus
+- Lebih cepat dari list biasa
+
+Insight:
+- AI bukan soal pintar, tapi soal efisiensi
+- Teks, gambar, dan suara bukan tidak konsisten, tapi data yang belum dalam bentuk yang bisa dihitung. ML hanya bisa melakukan operasi matematika, tapi bukan berarti ga bisa diolah, sebelum diolah data2 tersebut harus ditermahin ke numerik sehingga ml bisa membaca nya.
